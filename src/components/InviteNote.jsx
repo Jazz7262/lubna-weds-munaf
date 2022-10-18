@@ -17,7 +17,7 @@ function InviteNote() {
                     <br /> AP - 518 301.
                 </h5>
                 <p className="address">
-                    Contact: +91 89190 66623, <br />
+                    Contact: +91 89190 99623, <br />
                     +91 79938 68306, <br />
                     +91 83090 29247.
                 </p>
